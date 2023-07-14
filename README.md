@@ -1,1 +1,1 @@
-# SoftwareTestingCourseProjec
+# SoftwareTestingCourseProject
